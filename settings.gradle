@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Plandano, Veejay_Activity3"
